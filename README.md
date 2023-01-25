@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/593203249.svg)](https://zenodo.org/badge/latestdoi/593203249)
+
 # Epidemiological impacts of the NHS COVID-19 app throughout its first year
 
 Code to support the paper 'Epidemiological impacts of the NHS COVID-19 app in England and Wales throughout its first year'.
