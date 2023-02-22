@@ -2,7 +2,7 @@
 
 # Epidemiological impacts of the NHS COVID-19 app throughout its first year
 
-Code to support the paper 'Epidemiological impacts of the NHS COVID-19 app in England and Wales throughout its first year'.
+Code to support the paper [Epidemiological impacts of the NHS COVID-19 app in England and Wales throughout its first year](https://doi.org/10.1038/s41467-023-36495-z).
 
 The analysis is structured as an R project and can be performed by running [main.R](main.R). We recommend running it in RStudio.
 
